@@ -1,1 +1,1 @@
-nginx
+goblinmaster/island:front
