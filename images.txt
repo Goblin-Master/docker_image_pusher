@@ -2,3 +2,4 @@ goblinmaster/island:front
 mysql:5.7
 redis:7.4
 containrrr/watchtower
+truevoly/oracle-12c
