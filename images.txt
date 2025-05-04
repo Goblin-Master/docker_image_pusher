@@ -4,3 +4,4 @@ redis:7.4
 containrrr/watchtower
 truevoly/oracle-12c
 mongo
+bitnami/kafka:3.6.0
